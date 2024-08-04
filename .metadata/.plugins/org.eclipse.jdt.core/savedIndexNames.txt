@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\hayoung_java\cafecustom\.metadata\.plugins\org.eclipse.jdt.core
+3695463370.index
+977297343.index
+3392060588.index
+3731205332.index
+1865797976.index

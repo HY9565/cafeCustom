@@ -16,8 +16,8 @@
 - Java
 - Oracle Database 11g
 
-### Frontend
-- 업데이트 예정
+### GUI
+- Java AWT, Java Swing
 
 ### Tools
 - Eclipse
@@ -41,9 +41,6 @@
 
 ## 📊 ERD
 ![image](https://github.com/user-attachments/assets/e1534542-950d-4809-92ea-2f39abf1389a)
-
-## 🎥 시연 영상
-첨부예정
 
 ## 📝 프로젝트 회고
 ### 성과
